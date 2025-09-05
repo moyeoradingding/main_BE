@@ -26,10 +26,10 @@
 
 ---
 
-## 🧰 사용 스택(작성 예정)
+## 🧰 사용 스택
 
 
-<img src="https://user-images.githubusercontent.com/90237119/215304129-d8006105-cf1c-49c7-a819-4f819dfac523.png"/>
+![사용 기술 스택](media/사용 기술 스택.png)
 
 ### FE
 <div align=center>
@@ -53,6 +53,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![WebSocket](https://img.shields.io/badge/Websocket-2783e?style=for-the-badge&logo=websocket&logoColor=white)
+
 </div>
 
 
