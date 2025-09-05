@@ -29,7 +29,7 @@
 ## 🧰 사용 스택
 
 
-![Tech Stack](media/tech_stack.png)
+![Tech Stack](https://cdn.discordapp.com/attachments/1397810835933368492/1413402644365447198/undefined_6.png?ex=68bbcd4a&is=68ba7bca&hm=663fdb11ee2f33aeb67f4a32a619595aedb7b4760e74216fdbc06dddbf61ab51&)
 
 ### FE
 <div align=center>
