@@ -29,7 +29,7 @@
 ## 🧰 사용 스택
 
 
-![사용 기술 스택](media/사용 기술 스택.png)
+![Tech Stack](media/tech_stack.png)
 
 ### FE
 <div align=center>
